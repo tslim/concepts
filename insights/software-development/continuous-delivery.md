@@ -1,0 +1,3 @@
+# Continuous Delivery
+
+Continuous Delivery is the practice of keeping your codebase deployable at any point. Beyond making sure your application passes automated tests it has to have all the configuration (leveraging [[feature-toggle]]) necessary to push it into production. Many teams then do push changes that pass the automated tests into a test or production environment immediately to ensure a fast development loop.

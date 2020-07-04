@@ -1,0 +1,22 @@
+# Site Reliability Engineering (SRE)
+
+[Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_Reliability_Engineering) (SRE) is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goals are to create scalable and highly reliable software systems. According to Ben Treynor, founder of Google's Site Reliability Team, SRE is "what happens when a software engineer is tasked with what used to be called operations.
+
+SRE is viewed by many (as cited in the Google SRE book) as a "specific implementation of DevOps with some idiosyncratic extensions." SREs, being developers themselves, will naturally bring solutions that help remove the barriers between development teams and operations teams.
+
+SRE satisfies the DevOps pillars as follows:
+
+- Reduce organizational silos
+  - SRE shares ownership with developers to create shared responsibility
+  - SREs use the same tools that developers use, and vice versa
+- Accept failure as normal
+  - SREs embrace risk
+  - SRE quantifies failure and availability in a prescriptive manner using Service Level Indicators (SLIs) and Service Level Objectives (SLOs)
+  - SRE mandates blameless post mortems
+- Implement gradual changes
+  - SRE encourages developers and product owners to move quickly by reducing the cost of failure
+- Leverage tooling and automation
+  - SREs have a charter to automate menial tasks (called "toil") away
+- Measure everything
+  - SRE defines prescriptive ways to measure values
+  - SRE fundamentally believes that systems operation is a software problem
