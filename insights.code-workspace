@@ -5,6 +5,9 @@
     }
   ],
   "settings": {
-    "workbench.colorTheme": "Default Dark+"
+    "workbench.colorTheme": "Default Dark+",
+    "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+    "vscodeMarkdownNotes.workspaceFilenameConvention": "relativePaths",
+    "vscodeMarkdownNotes.createNoteOnGoToDefinitionWhenMissing": false
   }
 }
