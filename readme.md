@@ -1,9 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
----
-
 # 💭 Concepts around building software
 
 A living collection of concepts, techniques, tools and frameworks on developing software.
