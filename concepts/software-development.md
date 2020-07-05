@@ -10,7 +10,6 @@ Everything about building and deploying software effectively.
 - [[continuous-deployment]]
 - [[continuous-integration]]
 - [[cycle-time]]
-- [[dependency-management]]
 - [[deployment-frequency]]
 - [[feature-toggle]]
 - [[kanban]]
