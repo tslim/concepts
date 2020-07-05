@@ -13,7 +13,7 @@ A living collection of concepts, techniques, tools and frameworks on developing 
 - [[software-development]]
 - [[software-engineering]]
 
-Stats: 116 files with 217 links between them.
+Stats: 121 files with 232 links between them.
 
 ## How to use it
 
