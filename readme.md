@@ -4,7 +4,7 @@ A living collection of concepts, techniques, tools and frameworks on developing 
 
 ## Table of Contents
 
-Fun stats: 92 files with 168 links between them.
+Fun stats: 99 files with 169 links between them.
 
 - [[cloud-computing]]
 - [[data-architecture]]
