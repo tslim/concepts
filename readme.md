@@ -4,7 +4,7 @@ A living collection of concepts, techniques, tools and frameworks on developing 
 
 ## Table of Contents
 
-Fun stats: 76 files with 141 links between them.
+Fun stats: 80 files with 148 links between them.
 
 - [[cloud-computing]]
 - [[data-architecture]]
@@ -16,7 +16,7 @@ Fun stats: 76 files with 141 links between them.
 ## How to use it
 
 - Browse around to discover interesting insights from the world of software development.
-- Information is each notes are meant to give you a brief explanation and encourage you to explore further.
+- Information in each note is meant to give you a brief explanation and encourage you to explore further.
 - Clone the [repo](https://github.com/tslim/concepts) to explore the [Graph Visualisation](https://foambubble.github.io/foam/graph-visualisation)
 - Submit improvements, suggestions & feedbacks through pull requests
 
@@ -24,7 +24,7 @@ Fun stats: 76 files with 141 links between them.
 
 - This is by no means an exhaustive list of concepts. I'm sure I've missed many more and do suggest them if you can.
 - Links between notes are based on my understanding. It might not be accurate or relevant.
-- Bias towards any tools/concepts are solely based on my experience, or lack of experience with others alternatives.
+- Bias towards any tools/concepts are solely based on my experience or lack of it with other alternatives.
 
 ## Improvements, suggestions & feedbacks
 
