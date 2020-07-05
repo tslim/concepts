@@ -24,7 +24,7 @@ Fun stats: 76 files with 141 links between them.
 - Bias towards any tools/concepts are solely based on my experience, or lack of experience with others alternatives.
 
 ## Improvements, suggestions & feedbacks
-If you have any feedback for improvements, feel free to improve on this repo at https://github.com/tslim/concepts. Thanks!
+If you have any feedback for improvements, feel free to improve on this repo at [https://github.com/tslim/concepts](https://github.com/tslim/concepts). Thanks!
 
 ## Credits
 Built on top of [Foam](https://foambubble.github.io/foam), a personal knowledge management and sharing system inspired by [Roam Research](https://roamresearch.com/), built on [Visual Studio Code](https://code.visualstudio.com/) and [GitHub](https://github.com/).
