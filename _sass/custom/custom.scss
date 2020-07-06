@@ -1,9 +1,9 @@
+.nav-list {
+  display: none;
+}
+
 @media (min-width: 50rem) {
   .nav-list {
     display: block;
   }
-}
-
-.nav-list {
-  display: none;
 }
