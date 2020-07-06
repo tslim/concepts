@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "just-the-docs-default";
+@import "{{ site.theme }}";
 
 @media (min-width: 50rem) {
   .nav-list {
