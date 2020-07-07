@@ -6,21 +6,21 @@ Many of the techniques and processes of data analytics have been automated into 
 
 However, due to the high volume of new raw data added and the unpolished state that usually is, data analytics usually involves a creativeness in order to understand and best display insights of the raw data provided.
 
-### Stages of data analysis
+## Stages of data analysis
 
-#### 1. **Understand the data model**
+### 1. **Understand the data model**
 
 - It is the duty of the data analyst to understand the way how the data is stored and also of what it consists
 - Data usually is segregated in multiple tables, so a deep level of understanding of how they connect one to another is necessary
 
-#### 2. **Manipulate the data**
+### 2. **Manipulate the data**
 
 - Data manipulation can be done either with [SQL](https://en.wikipedia.org/wiki/SQL) or using other programming languages such as [Java](<https://en.wikipedia.org/wiki/Java_(programming_language)>) ,[Python](<https://en.wikipedia.org/wiki/Python_(programming_language)>), etc.
 - It can involve both aggregating / joining existing models but also creating new ones to facilitate easier interrogation
 - Some type of [[etl]] process may be involved if data is distributed on multiple database. The data analyst might not be involved in the actual implementation of the process, but would work with the framework to ensure that the data is available for interrogation
 - It may also involve some [[data-cleansing]] to make sure the data are complete and accurate.
 
-#### 3. **Presenting insights from the data**
+### 3. **Presenting insights from the data**
 
 - Data analyses have as output key insights from the data that can be easily consumed and are self-explanatory
 - The key insights can be displayed in reporting and dashboard with [[data-visualization]] tools.
