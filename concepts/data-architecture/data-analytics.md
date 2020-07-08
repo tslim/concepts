@@ -15,7 +15,7 @@ However, due to the high volume of new raw data added and the unpolished state t
 
 ### 2. **Manipulate the data**
 
-- Data manipulation can be done either with [SQL](https://en.wikipedia.org/wiki/SQL) or using other programming languages such as [Java](<https://en.wikipedia.org/wiki/Java_(programming_language)>) ,[Python](<https://en.wikipedia.org/wiki/Python_(programming_language)>), etc.
+- Data manipulation can be done either with [SQL](https://en.wikipedia.org/wiki/SQL) or using other programming languages such as [Java](<https://en.wikipedia.org/wiki/Java_(programming_language)>), [Python](<https://en.wikipedia.org/wiki/Python_(programming_language)>), etc.
 - It can involve both aggregating / joining existing models but also creating new ones to facilitate easier interrogation
 - Some type of [[etl]] process may be involved if data is distributed on multiple database. The data analyst might not be involved in the actual implementation of the process, but would work with the framework to ensure that the data is available for interrogation
 - It may also involve some [[data-cleansing]] to make sure the data are complete and accurate.
