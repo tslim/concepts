@@ -17,6 +17,7 @@ Concepts and technologies for handling exponential growth of data for applicatio
 - [[data-fabric]]
 - [[data-governance]]
 - [[data-lake]]
+- [[data-modelling]]
 - [[data-ops]]
 - [[data-pipeline]]
 - [[data-visualization]]
@@ -41,6 +42,7 @@ Concepts and technologies for handling exponential growth of data for applicatio
 [data-fabric]: data-architecture/data-fabric "Data Fabric"
 [data-governance]: data-architecture/data-governance "Data Governance"
 [data-lake]: data-architecture/data-lake "Data Lake"
+[data-modelling]: data-architecture/data-modelling "Data Modelling"
 [data-ops]: data-architecture/data-ops "DataOps"
 [data-pipeline]: data-architecture/data-pipeline "Data Pipeline"
 [data-visualization]: data-architecture/data-visualization "Data Visualization"
