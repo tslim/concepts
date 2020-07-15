@@ -19,6 +19,7 @@ Approaches and techniques used to develop scalable, reliable and maintainable so
 - [[interface]]
 - [[library]]
 - [[logging]]
+- [[object-oriented-programming]]
 - [[parallelism]]
 - [[reactive-programming]]
 - [[refactoring]]
@@ -39,6 +40,7 @@ Approaches and techniques used to develop scalable, reliable and maintainable so
 [imperative-programming]: software-engineering/imperative-programming "Imperative Programming"
 [interface]: software-engineering/interface "Interface"
 [logging]: software-engineering/logging "Logging"
+[object-oriented-programming]: software-engineering/object-oriented-programming "Object Oriented Programming"
 [parallelism]: software-engineering/parallelism "Parallelism"
 [reactive-programming]: software-engineering/reactive-programming "Reactive Programming"
 [refactoring]: software-engineering/refactoring "Refactoring"
