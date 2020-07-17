@@ -1,4 +1,4 @@
-# 💭 Concepts around building software
+# Concepts 💭 around building software
 
 A living collection of concepts, techniques, tools and frameworks on developing software.
 
