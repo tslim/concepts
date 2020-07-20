@@ -1,6 +1,6 @@
 # Cloud Computing
 
-All the relevant concepts & technologies in the ever-evolving world of cloud computing and infrastructure.
+Relevant concepts & technologies in the ever-evolving world of cloud computing and infrastructure.
 
 - [[atlantis-terraform]]
 - [[blue-green-deployment]]

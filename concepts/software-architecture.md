@@ -1,6 +1,6 @@
 # Software Architecture
 
-All the different ways and patterns to build software systems.
+The different ways and patterns to build software systems.
 
 - [[c4-model]]
 - [[graphql]]

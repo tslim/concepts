@@ -1,6 +1,6 @@
 # Software Development
 
-Everything about building and deploying software effectively.
+Concepts and approaches on building and deploying software effectively.
 
 - [[accelerate-book]]
 - [[agile]]
