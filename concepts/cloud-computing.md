@@ -5,8 +5,10 @@ All the relevant concepts & technologies in the ever-evolving world of cloud com
 - [[atlantis-terraform]]
 - [[blue-green-deployment]]
 - [[canary-deployment]]
+- [[cluster]]
 - [[container]]
 - [[devops]]
+- [[distributed]]
 - [[dns]]
 - [[docker]]
 - [[envoy-proxy]]
@@ -41,8 +43,10 @@ All the relevant concepts & technologies in the ever-evolving world of cloud com
 [atlantis-terraform]: cloud-computing/atlantis-terraform "Atlantis (Terraform)"
 [blue-green-deployment]: cloud-computing/blue-green-deployment "Blue Green Deployment"
 [canary-deployment]: cloud-computing/canary-deployment "Canary Deployment"
+[cluster]: cloud-computing/cluster "Cluster"
 [container]: cloud-computing/container "Container"
 [devops]: cloud-computing/devops "DevOps"
+[distributed]: cloud-computing/distributed "Distributed Systems"
 [dns]: cloud-computing/dns "Domain Name Service (DNS)"
 [docker]: cloud-computing/docker "Docker"
 [envoy-proxy]: cloud-computing/envoy-proxy "Envoy Proxy"
