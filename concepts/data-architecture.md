@@ -16,10 +16,12 @@ Concepts and technologies for handling exponential growth of data for applicatio
 - [[data-cleansing]]
 - [[data-fabric]]
 - [[data-governance]]
+- [[data-integration]]
 - [[data-lake]]
 - [[data-modelling]]
 - [[data-ops]]
 - [[data-pipeline]]
+- [[data-replication]]
 - [[data-visualization]]
 - [[data-warehouse]]
 - [[database]]
@@ -43,10 +45,12 @@ Concepts and technologies for handling exponential growth of data for applicatio
 [data-cleansing]: data-architecture/data-cleansing "Data Cleansing"
 [data-fabric]: data-architecture/data-fabric "Data Fabric"
 [data-governance]: data-architecture/data-governance "Data Governance"
+[data-integration]: data-architecture/data-integration "Data Integration"
 [data-lake]: data-architecture/data-lake "Data Lake"
 [data-modelling]: data-architecture/data-modelling "Data Modelling"
 [data-ops]: data-architecture/data-ops "DataOps"
 [data-pipeline]: data-architecture/data-pipeline "Data Pipeline"
+[data-replication]: data-architecture/data-replication "Data Replication"
 [data-visualization]: data-architecture/data-visualization "Data Visualization"
 [data-warehouse]: data-architecture/data-warehouse "Data Warehouse"
 [database]: data-architecture/database "Database"
