@@ -25,7 +25,7 @@ Stats: 164 files with 392 links between them.
 ## Caveats
 
 - This is by no means an exhaustive list of concepts. I'm sure I've missed many more and do suggest them if you can.
-- Links between notes are based on my understanding. It might not be accurate or relevant.
+- Links between notes are based on my own understanding. It might not be accurate or relevant.
 - Bias towards any tools/concepts are solely based on my experience or lack of it with other alternatives.
 
 ## Improvements, suggestions & feedbacks
