@@ -7,10 +7,12 @@ Relevant concepts & technologies in the ever-evolving world of cloud computing a
 - [[canary-deployment]]
 - [[cluster]]
 - [[container]]
+- [[content-delivery-network]]
 - [[devops]]
 - [[distributed]]
 - [[dns]]
 - [[docker]]
+- [[edge-server]]
 - [[envoy-proxy]]
 - [[forseti-security]]
 - [[git-ops]]
@@ -29,6 +31,7 @@ Relevant concepts & technologies in the ever-evolving world of cloud computing a
 - [[site-reliability-engineering]]
 - [[spinnaker]]
 - [[terraform]]
+- [[varnish-cache]]
 - [[vault]]
 - [[virtual-machine]]
 - [[virtual-private-cloud]]
@@ -45,10 +48,12 @@ Relevant concepts & technologies in the ever-evolving world of cloud computing a
 [canary-deployment]: cloud-computing/canary-deployment "Canary Deployment"
 [cluster]: cloud-computing/cluster "Cluster"
 [container]: cloud-computing/container "Container"
+[content-delivery-network]: cloud-computing/content-delivery-network "Content Delivery Network (CDN)"
 [devops]: cloud-computing/devops "DevOps"
 [distributed]: cloud-computing/distributed "Distributed Systems"
 [dns]: cloud-computing/dns "Domain Name Service (DNS)"
 [docker]: cloud-computing/docker "Docker"
+[edge-server]: cloud-computing/edge-server "Edge Server"
 [envoy-proxy]: cloud-computing/envoy-proxy "Envoy Proxy"
 [forseti-security]: cloud-computing/forseti-security "Forseti Security"
 [git-ops]: cloud-computing/git-ops "GitOps"
@@ -67,6 +72,7 @@ Relevant concepts & technologies in the ever-evolving world of cloud computing a
 [site-reliability-engineering]: cloud-computing/site-reliability-engineering "Site Reliability Engineering (SRE)"
 [spinnaker]: cloud-computing/spinnaker "Spinnaker"
 [terraform]: cloud-computing/terraform "Terraform"
+[varnish-cache]: cloud-computing/varnish-cache "Varnish Cache"
 [vault]: cloud-computing/vault "Vault"
 [virtual-machine]: cloud-computing/virtual-machine "Virtual Machine"
 [virtual-private-cloud]: cloud-computing/virtual-private-cloud "Virtual Private Cloud"
