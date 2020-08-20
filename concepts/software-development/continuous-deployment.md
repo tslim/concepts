@@ -1,4 +1,4 @@
-# Continous Deployment
+# Continuous Deployment
 
 Continuous Deployment is closely related to [[continuous-integration]] and refers to keeping your application deployable at any point or even automatically releasing to a test or production environment if the latest version passes all automated tests.
 
