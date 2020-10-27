@@ -27,6 +27,7 @@ Concepts and technologies for handling exponential growth of data for applicatio
 - [[data-visualization]]
 - [[data-warehouse]]
 - [[database]]
+- [[elt]]
 - [[etl]]
 - [[gdpr]]
 - [[hdfs]]
@@ -65,7 +66,8 @@ Concepts and technologies for handling exponential growth of data for applicatio
 [data-visualization]: data-architecture/data-visualization "Data Visualization"
 [data-warehouse]: data-architecture/data-warehouse "Data Warehouse"
 [database]: data-architecture/database "Database"
-[etl]: data-architecture/etl "Extract, transform, load"
+[elt]: data-architecture/elt "Extract, Load & Transform (ELT)"
+[etl]: data-architecture/etl "Extract, Transform & Load (ETL)"
 [gdpr]: data-architecture/gdpr "General Data Protection Regulation (GDPR)"
 [hdfs]: data-architecture/hdfs "Hadoop Distributed File System (HDFS)"
 [no-sql-database]: data-architecture/no-sql-database "NoSQL Database"
