@@ -2,7 +2,7 @@
 
 Event sourcing is a great way to atomically update state and publish events (usually through a [[message-queue]]). The traditional way to persist an entity is to save its current state. Event sourcing uses a radically different, event-centric approach to persistence. A business object is persisted by storing a sequence of state changing events.
 
-Whenever an object’s state changes, a new event is appended to the sequence of events. Since that is one operation it is inherently atomic. A entity’s current state is reconstructed by replaying its events.
+Whenever an object’s state changes, a new event is appended to the sequence of events. Since that is one operation it is inherently atomic. A entity’s current state is reconstructed by replaying (projections) its events.
 
 Often used together with [[cqrs]]
 
