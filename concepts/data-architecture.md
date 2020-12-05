@@ -20,6 +20,7 @@ Concepts and technologies for handling exponential growth of data for applicatio
 - [[data-governance]]
 - [[data-integration]]
 - [[data-lake]]
+- [[data-lakehouse]]
 - [[data-modelling]]
 - [[data-ops]]
 - [[data-pipeline]]
@@ -59,6 +60,7 @@ Concepts and technologies for handling exponential growth of data for applicatio
 [data-governance]: data-architecture/data-governance "Data Governance"
 [data-integration]: data-architecture/data-integration "Data Integration"
 [data-lake]: data-architecture/data-lake "Data Lake"
+[data-lakehouse]: data-architecture/data-lakehouse "Data Lakehouse"
 [data-modelling]: data-architecture/data-modelling "Data Modelling"
 [data-ops]: data-architecture/data-ops "DataOps"
 [data-pipeline]: data-architecture/data-pipeline "Data Pipeline"
