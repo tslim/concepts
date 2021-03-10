@@ -5,7 +5,6 @@ Concepts and technique to ensure smooth operation of an organization.
 - [[automation]]
 - [[compliance]]
 - [[error-budget]]
-- [[isms]]
 - [[okrs]]
 - [[raci]]
 - [[service-level-agreement]]
@@ -18,7 +17,6 @@ Concepts and technique to ensure smooth operation of an organization.
 [automation]: organization-operations/automation "Automation"
 [compliance]: organization-operations/compliance "Compliance"
 [error-budget]: organization-operations/error-budget "Error Budget"
-[isms]: organization-operations/isms "Information Security Management System (ISMS)"
 [okrs]: organization-operations/okrs "Objectives and Key Results (OKRs)"
 [raci]: organization-operations/raci "Responsible, Accountable, Consulted and Informed (RACI)"
 [service-level-agreement]: organization-operations/service-level-agreement "Service Level Agreement"
