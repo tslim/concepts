@@ -8,7 +8,7 @@ ga_tracking: UA-2589718-18
 
 # Footer content
 # appears at the bottom of every page's main content
-footer_content: 'Copyright &copy; 2020 <a href="https://clipsoflogic.com">T.S. Lim</a>. Distributed by an <a href="https://github.com/tslim/concepts/tree/master/LICENSE.md">MIT license.</a>'
+footer_content: 'Copyright &copy; 2021 <a href="https://clipsoflogic.com">T.S. Lim</a>. Distributed by an <a href="https://github.com/tslim/concepts/tree/master/LICENSE.md">MIT license.</a>'
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
