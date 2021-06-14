@@ -7,9 +7,12 @@ Path towards our A.I. overlords.
 - [[cost-function]]
 - [[deep-learning]]
 - [[gradient-descent]]
+- [[jupyter]]
 - [[keras]]
+- [[kubeflow]]
 - [[learning-rate]]
 - [[linear-regression]]
+- [[ml-ops]]
 - [[pytorch]]
 - [[r-programming-language]]
 - [[recommender-systems]]
@@ -29,9 +32,12 @@ Path towards our A.I. overlords.
 [cost-function]: machine-learning/cost-function "Cost Function"
 [deep-learning]: machine-learning/deep-learning "Deep Learning"
 [gradient-descent]: machine-learning/gradient-descent "Gradient Descent"
+[jupyter]: machine-learning/jupyter "jupyter"
 [keras]: machine-learning/keras "Keras"
+[kubeflow]: machine-learning/kubeflow "Kubeflow"
 [learning-rate]: machine-learning/learning-rate "Learning Rate"
 [linear-regression]: machine-learning/linear-regression "Linear Regression"
+[ml-ops]: machine-learning/ml-ops "ML Ops (Machine Learning Ops)"
 [pytorch]: machine-learning/pytorch "PyTorch"
 [r-programming-language]: machine-learning/r-programming-language "R (Programming Language)"
 [recommender-systems]: machine-learning/recommender-systems "Recommender Systems"
