@@ -16,6 +16,7 @@ Concepts and technologies for handling exponential growth of data for applicatio
 - [[data-analysis]]
 - [[data-analytics]]
 - [[data-cleansing]]
+- [[data-excellence]]
 - [[data-fabric]]
 - [[data-governance]]
 - [[data-integration]]
@@ -56,6 +57,7 @@ Concepts and technologies for handling exponential growth of data for applicatio
 [data-analysis]: data-architecture/data-analysis "Data Analysis"
 [data-analytics]: data-architecture/data-analytics "Data Analytics"
 [data-cleansing]: data-architecture/data-cleansing "Data Cleansing"
+[data-excellence]: data-architecture/data-excellence "Data Excellence"
 [data-fabric]: data-architecture/data-fabric "Data Fabric"
 [data-governance]: data-architecture/data-governance "Data Governance"
 [data-integration]: data-architecture/data-integration "Data Integration"
