@@ -14,8 +14,6 @@ A living collection of concepts, techniques, tools and frameworks on developing 
 - [[software-development]]
 - [[software-engineering]]
 
-Stats: 195 files with 937 links between them.
-
 ## How to use it
 
 - Browse around to discover interesting insights from the world of software development.
