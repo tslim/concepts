@@ -70,6 +70,7 @@ Concepts and technologies for handling exponential growth of data for applicatio
 [data-ops]: data-architecture/data-ops "DataOps"
 [data-pipeline]: data-architecture/data-pipeline "Data Pipeline"
 [data-replication]: data-architecture/data-replication "Data Replication"
+[data-science]: data-architecture/data-science "Data Science"
 [data-visualization]: data-architecture/data-visualization "Data Visualization"
 [data-warehouse]: data-architecture/data-warehouse "Data Warehouse"
 [database]: data-architecture/database "Database"
