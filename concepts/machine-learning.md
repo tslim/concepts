@@ -33,6 +33,7 @@ Path towards our A.I. overlords.
 [collaborative-filtering]: machine-learning/collaborative-filtering "Collaborative Filtering"
 [cost-function]: machine-learning/cost-function "Cost Function"
 [deep-learning]: machine-learning/deep-learning "Deep Learning"
+[generative-pretrained-transformer]: machine-learning/generative-pretrained-transformer "Generative Pretrained Transformer (GPT)"
 [gradient-descent]: machine-learning/gradient-descent "Gradient Descent"
 [jupyter]: machine-learning/jupyter "Jupyter Notebook"
 [keras]: machine-learning/keras "Keras"
