@@ -1,0 +1,8 @@
+# Large Language Models (LLM)
+
+A recent breakthrough in artificial intelligence (AI) is the introduction of language processing technologies that enable us to build more intelligent systems with a richer understanding of language than ever before. Large pre-trained Transformer ([[generative-pretrained-transformer]]) language models, or simply large language models, vastly extend the capabilities of what systems are able to do with text.
+
+## Useful Links
+- [Introduction to Large Language Models
+](https://docs.cohere.ai/docs/introduction-to-large-language-models)
+- [Open AI ChatGPT](https://openai.com/blog/chatgpt/)

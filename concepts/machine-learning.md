@@ -6,10 +6,12 @@ Path towards our A.I. overlords.
 - [[collaborative-filtering]]
 - [[cost-function]]
 - [[deep-learning]]
+- [[generative-pretrained-transformer]]
 - [[gradient-descent]]
 - [[jupyter]]
 - [[keras]]
 - [[kubeflow]]
+- [[large-language-models]]
 - [[learning-rate]]
 - [[linear-regression]]
 - [[ml-ops]]
@@ -32,9 +34,10 @@ Path towards our A.I. overlords.
 [cost-function]: machine-learning/cost-function "Cost Function"
 [deep-learning]: machine-learning/deep-learning "Deep Learning"
 [gradient-descent]: machine-learning/gradient-descent "Gradient Descent"
-[jupyter]: machine-learning/jupyter "jupyter"
+[jupyter]: machine-learning/jupyter "Jupyter Notebook"
 [keras]: machine-learning/keras "Keras"
 [kubeflow]: machine-learning/kubeflow "Kubeflow"
+[large-language-models]: machine-learning/large-language-models "Large Language Models (LLM)"
 [learning-rate]: machine-learning/learning-rate "Learning Rate"
 [linear-regression]: machine-learning/linear-regression "Linear Regression"
 [ml-ops]: machine-learning/ml-ops "ML Ops (Machine Learning Ops)"
