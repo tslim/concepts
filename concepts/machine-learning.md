@@ -23,6 +23,7 @@ Path towards our A.I. overlords.
 - [[supervised-learning]]
 - [[tensor-flow]]
 - [[unsupervised-learning]]
+- [[vector-embeddings]]
 
 ## Useful links
 
